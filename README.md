@@ -4,7 +4,7 @@ TextCraft is a modern text transformation tool that helps you rewrite and refine
 
 [Try it](https://h3manth.com/ai/textcraft/) 🚀
 
-https://github.com/user-attachments/assets/437e2f44-31ec-4484-b241-751b45fa8f69
+<video src="https://github.com/user-attachments/assets/437e2f44-31ec-4484-b241-751b45fa8f69" width="352" height="720"></video>
 
 ## Features
 
