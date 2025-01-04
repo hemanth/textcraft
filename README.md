@@ -2,7 +2,8 @@
 
 TextCraft is a modern text transformation tool that helps you rewrite and refine your text in different styles. Whether you need to make your text more formal, friendly, or clear, TextCraft has got you covered.
 
-![TextCraft AI Screenshot](./app.png)
+
+https://github.com/user-attachments/assets/437e2f44-31ec-4484-b241-751b45fa8f69
 
 ## Features
 
